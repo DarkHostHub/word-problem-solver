@@ -2,7 +2,6 @@
  * Title: Algebra Word Problem Solver
  * Description: 
  * Author: Blake Neu
- *  Course: CSCI 24000
  * Date: 8/10/2015
  * */
 
